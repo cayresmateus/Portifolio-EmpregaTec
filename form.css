@@ -1,0 +1,43 @@
+form{
+    width: 100%;
+    max-width: 30rem;
+}
+label,
+input,
+textarea,
+button{
+    display: block;
+    
+}
+input,
+textarea,
+button{
+    width: 100%;
+    
+}
+input,
+textarea{
+    margin-bottom: 1rem;
+    background-color: #f4eded;
+    border: 0.125rem solid transparent;
+    border-radius: 1.125rem;
+    transition: border-color 0.3s;
+}
+input:hover,
+textarea:hover{
+    border: solid #1d90f5;
+}
+button{
+    padding: 12.5px 30px;
+    border: 0;
+    border-radius: 100px;
+    background-color: #333;
+    color: #ffffff;
+    font-weight: Bold;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+button:hover{
+    background-color: #555;
+}
+
