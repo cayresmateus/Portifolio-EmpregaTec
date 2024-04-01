@@ -72,6 +72,11 @@ strong{
         text-decoration: none; 
 }
 
+.links {
+    margin-top: 8em;
+    display: flex;
+    justify-content: space-evenly;
+}
 .links img{
     height: 5vh;
     margin: 5px
@@ -79,6 +84,7 @@ strong{
 .links-projetos{
     flex-direction: column;
     display: flex;
+    justify-content: space-between;
 }
 .links-projetos a{
     display: inline-block;
