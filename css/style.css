@@ -82,6 +82,7 @@ strong{
     margin: 5px
 }
 .links-projetos{
+    margin-top: 2em;
     flex-direction: column;
     display: flex;
     justify-content: space-between;
