@@ -91,7 +91,7 @@ strong{
     display: inline-block;
     font-weight: bold; 
     padding: 10px; 
-    color: #e6e6e6;
+    color: #ffffff;
     border: 1px solid #2f2e2e;
     background: linear-gradient(to bottom, #38d2d2, #4a8ea4);
     text-decoration: none; 
@@ -99,7 +99,6 @@ strong{
     border-radius: 2vh;
 }
 .links-projetos a:hover{
-    color: #ffffff;
     background: linear-gradient(to bottom, rgb(182, 202, 202), #78b8cd);
 }
 footer {
