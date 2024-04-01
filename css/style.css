@@ -114,6 +114,14 @@ footer {
 
 @media (max-width: 768px) {
     .cartao {
-        max-width: 90%;
+        max-width: 100%;
+        box-shadow: none;
+        border: none;
+    }
+    body{
+        background-color: #fff;
+    }
+    .links{
+        margin-top: 3em;
     }
 }
